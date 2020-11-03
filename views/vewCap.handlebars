@@ -1,0 +1,34 @@
+<div>
+    <hr>
+    <h4>{{livro}} | Capitulo {{capitulo}}</h4>
+</div>
+<br>
+
+
+<div class="table-responsive-xl">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th scope="col"></th>
+            </tr>
+        </thead>
+        <tbody>
+            {{#each versiculos}}
+            <tr>
+                <th scope="row">
+                    <p>
+                        <span style="color: red;">{{this.numero}}</span>   {{this.conteudo}}
+                    </p>
+                    
+                </th>
+                <td></td>
+            </tr>{{else}}
+            {{/each}}
+        </tbody>
+
+    </table>
+
+
+
+
+</div>

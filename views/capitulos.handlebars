@@ -1,0 +1,18 @@
+<h1 id="h_livro">{{livro.name}}</h1>
+<div style="width: 200px;" class="d-table">
+
+
+    <form action="/biblia/livro/capitulo" method="post">
+        <input type="hidden" name="livro" value="{{livro.name}}">
+        <select class="browser-default custom-select" name="cap">
+            <option selected>Open this select menu</option>
+            {{#each livro.capitulos}}
+            <option value="{{this}}">{{this}}</option>
+            {{else}}
+
+            {{/each}}
+        </select>
+        <input class="btn btn-light" type="submit" value="Selecionar">
+    </form>
+
+</div>

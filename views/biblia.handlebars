@@ -1,0 +1,26 @@
+<h1>Biblia Sagrada</h1>
+
+<h2>Todos os livros</h2>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">Livros</th>
+        </tr>
+    </thead>
+    <tbody>
+        
+            {{#each livros}}
+            <form action="/biblia/livro" method="post">
+            <input type="hidden" name="name" value="{{this}}">
+            <tr>
+                <td>
+                    <input type="submit" value="{{this}}">
+                </td>
+            </tr>
+</form>
+            {{else}}
+
+            {{/each}}
+        
+    </tbody>
+</table>
