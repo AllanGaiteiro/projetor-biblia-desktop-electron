@@ -26,7 +26,7 @@ const Biblia = (livro, cap) => {
             obj[livro] = data.substring(init['index'])
 
             // teste
-            console.log(init + ' pos[' + init['index'] + '] ')
+                //console.log(init + ' pos[' + init['index'] + '] ')
         } else {
             fim = data.match(livros[indexL + 1].toLocaleUpperCase())
 
@@ -34,7 +34,7 @@ const Biblia = (livro, cap) => {
             obj[livro] = data.substring(init['index'], fim['index'])
 
             //teste
-            console.log(init + ' pos[' + init['index'] + '] | ' + fim + ' pos[' + fim['index'] + ']')
+                //console.log(init + ' pos[' + init['index'] + '] | ' + fim + ' pos[' + fim['index'] + ']')
         }
         ////// dividindo capitulos 
 
@@ -57,26 +57,12 @@ const Biblia = (livro, cap) => {
         }
         
         obj[livro][cap] = capitulo
-        console.log(obj[livro][cap])
+            //console.log(obj[livro][cap])
         return obj[livro][cap]
     }
-    /*
-    vers = vers.split(/\d+/);
-                var newVers = []
-                for(var i = 0; i < vers.length; i++){
-                    newVers.push(
-                        `${1} : ${vers[i]}`
-                    )
-                }
-    */
-
-
-
 
 } else {
     console.log('ele nao é uma livro')
     }
-
-
 }
 module.exports = Biblia;

@@ -1,6 +1,19 @@
-<div>
-    <hr>
-    <h4>{{livro}} | Capitulo {{capitulo}}</h4>
+<hr>
+<div class="d-flex justify-content-between">
+
+    <button class="btn btn-info mt-2" onclick="window.history.back()">Voltar</button>
+
+    <h2 style="text-align: center;font-weight:bold">
+        {{livro}} | Capitulo {{capitulo}}
+    </h2>
+
+    <form action="/biblia/livro/capitulo" method="post">
+        <input type="hidden" name="livro" value="{{livro}}">
+        <input type="hidden" id="cap" name="cap" value="{{capitulo}}">
+        <button class="btn btn-info mt-2" type="submit">Prossimo</button>
+    </form>
+
+
 </div>
 <br>
 
@@ -17,9 +30,9 @@
             <tr>
                 <th scope="row">
                     <p>
-                        <span style="color: red;">{{this.numero}}</span>   {{this.conteudo}}
+                        <span style="color: red;">{{this.numero}}</span> {{this.conteudo}}
                     </p>
-                    
+
                 </th>
                 <td></td>
             </tr>{{else}}
@@ -32,3 +45,14 @@
 
 
 </div>
+
+<script>
+    window.onload = function () {
+        var btnPross = document.querySelector('input#cap')
+        
+        //console.log(btnPross.length + ' | ' + btnPross.value)
+        btnPross.value = Number(btnPross.value) + 1
+    }
+
+
+</script>

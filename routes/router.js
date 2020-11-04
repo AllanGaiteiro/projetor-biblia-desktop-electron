@@ -16,7 +16,7 @@ router.get('/biblia', (req, res) => {
 
 router.post('/biblia/livro', (req, res) => {
     var cap = Biblia(req.body.name, 'Cap')
-    console.log(req.body.name)
+    //console.log(req.body.name)
     res.render('capitulos',
         {
             livro: {
