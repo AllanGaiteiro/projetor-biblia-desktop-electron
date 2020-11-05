@@ -40,7 +40,7 @@ Seu aplicativo sera iniciado
 ## Desenvolvido com
 Mencionar os frameworks e ferramentes utilizados para se desenvolver essa aplicação. Como por exemplo:
 
-* [Express](https://angular.io/) - O framework web utilizado para criação de rotas do servidor para o cliente
+* [Express] - O framework web utilizado para criação de rotas do servidor para o cliente
 * [Electron] - Framework Java Script para criaçao de aplicaçoes Desktop
 
 
