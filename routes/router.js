@@ -28,16 +28,26 @@ router.post('/biblia/livro', (req, res) => {
 
 router.post('/biblia/livro/capitulo', (req, res) => {
     var vers = Biblia(req.body.livro, req.body.cap)
-    var newVers = [] 
-    for(var i = 1; i < vers.length; i++){
-        newVers.push(vers[i])
+    var newVers = []
+
+    if (Number(req.body.cap) > 0) {
+        res.render('vewCap',
+            {
+                livro: req.body.livro,
+                capitulo: req.body.cap,
+                versiculos: newVers
+            })
+
+    } else {
+        console.log('deu erro')
+        var cap = Biblia(req.body.livro, 'Cap')
+        //console.log(req.body.name)
+        res.redirect('/biblia')
     }
-    res.render('vewCap',
-        {
-            livro: req.body.livro,
-            capitulo: req.body.cap,
-            versiculos: newVers
-        })
+for (var i = 1; i < vers.length; i++) {
+    newVers.push(vers[i])
+}
+
 })
 
 

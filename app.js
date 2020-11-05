@@ -5,10 +5,11 @@
     const path = require('path')
     const app = express();
 //// modules
-    const router = require('./routes/router')
+    const router = require('./routes/router');
+const Biblia = require('./database/databiblia');
 
 //// config
-    const PORT = 1213
+    const PORT = 1000
     
     // bodyparser
         app.use(bodyParser.urlencoded({extended: true}))
@@ -21,7 +22,7 @@
     
 
     // Public
-        app.use(express.static(path.join(__dirname, 'public')))// caminho absoluta para o 'public' 
+        app.use(express.static(__dirname + '/public'))// caminho absoluta para o 'public' 
     
     // route
     app.use('/', router) 
@@ -30,3 +31,6 @@
     app.listen(PORT, ()=> {
         console.log('Application [started]')
     })
+
+
+module.exports;
