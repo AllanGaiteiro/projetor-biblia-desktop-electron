@@ -31,7 +31,7 @@ https://github.com/AllanGaiteiro/Biblia-Virtual-Desktop.git
 Logo em segui abra a pasta no cmd e digite o codigo abaixo
 
 ```
-npm star
+npm start
 ```
 
 Seu aplicativo sera iniciado
