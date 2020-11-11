@@ -5,7 +5,6 @@
     <form action="/biblia/livro/capitulo" method="post">
         <input type="hidden" name="livro" value="{{livro.name}}">
         <select class="browser-default custom-select" name="cap">
-            <option selected>Open this select menu</option>
             {{#each livro.capitulos}}
             <option value="{{this}}">{{this}}</option>
             {{else}}

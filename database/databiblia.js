@@ -1,4 +1,5 @@
-const fs = require('fs')
+const fs = require('fs');
+
 const livros = [
     "Gênesis", "Êxodo", "Levítico", "Números", "Deuteronômio", "Josué", "Juízes", "Rute", "I Samuel", "II Samuel", "I Reis", "II Reis", "I Crônicas", "II Crônicas", "Esdras", "Neemias", "Ester", "Jó", "Salmos", "Provérbios", "Eclesiastes", "Cântico dos Cânticos", "Isaías", "Jeremias", "Lamentações de Jeremias", "Ezequiel", "Daniel", "Oséias", "Joel", "Amós", "Obadias", "Jonas", "Miquéias", "Naum", "Habacuque", "Sofonias", "Ageu", "Zacarias", "Malaquias", "Mateus", "Marcos", "Lucas", "João", "Atos", "Romanos", "I Coríntios", "II Coríntios", "Gálatas", "Efésios", "Filipenses", "Colossenses", "I Tessalonicenses", "II Tessalonicenses", "I Timóteo", "II Timóteo", "Tito", "Filemom", "Hebreus", "Tiago", "I Pedro", "II Pedro", "I João", "II João", "III João", "Judas", "Apocalipse",
 ]
@@ -7,7 +8,7 @@ const data = fs.readFileSync('./database/Biblia.txt', 'utf8')
 var livro = 'Gênesis'
 var cap = 4 //'all'
 
-const Biblia = (livro, cap) => {
+const Biblia = (livro, cap ) => {
 
     var indexL = livros.indexOf(livro)
     var obj = {}
@@ -16,7 +17,6 @@ const Biblia = (livro, cap) => {
     if (cap == 'livros') {
         return livros;
     }
-
 
     if (indexL >= 0) {
         var init = data.match(livros[indexL].toLocaleUpperCase())

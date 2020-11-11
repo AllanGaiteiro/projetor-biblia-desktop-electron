@@ -7,13 +7,30 @@
     "start": "electron . ",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "electron": "^10.1.5",
     "electron-builder": "^22.9.1",
     "express": "^4.17.1",
     "express-handlebars": "^5.2.0"
+  },
+  "bin": "index.js",
+  "pkg": {
+    "assets": [
+      "node_modules/electron/**/*",
+      "node_modules/sliced/**/*",
+      "node_modules/deep-defaults/**/*",
+      "database/**/*",
+      "public/**/*",
+      "routes/**/*",
+      "setings/**/*",
+      "views/**/*"
+    ],
+    "targets":[
+      "node14-win-x64"
+    ]
   }
 }
