@@ -78,7 +78,7 @@ ANTIGO TESTAMENTO
 GÊNESIS
 
 >>capitulo
-
+ me 
 1 No princípio criou Deus os céus e a terra.
 2 A terra era sem forma e vazia; e havia trevas sobre a face do abismo, mas o Espírito de Deus pairava sobre a face das águas.
 3 Disse Deus: haja luz. E houve luz.
@@ -679,7 +679,7 @@ GÊNESIS
 23 agora pois, jura-me aqui por Deus que não te haverás falsamente comigo, nem com meu filho, nem com o filho do meu filho; mas segundo a beneficência que te fiz, me farás a mim, e à terra onde peregrinaste.
 24 Respondeu Abraão: Eu jurarei.
 25 Abraão, porém, repreendeu a Abimeleque, por causa de um poço de água, que os servos de Abimeleque haviam tomado à força.
-26 Respondeu-lhe Abimeleque: Não sei quem fez isso; nem tu mo fizeste saber, nem tampouco ouvi eu falar nisso, senão hoje.
+26 Respondeu-lhe Abimeleque: Não sei quem fez isso; nem tu me fizeste saber, nem tampouco ouvi eu falar nisso, senão hoje.
 27 Tomou, pois, Abraão ovelhas e bois, e os deu a Abimeleque; assim fizeram entre, si um pacto.
 28 Pôs Abraão, porém, à parte sete cordeiras do rebanho.
 29 E perguntou Abimeleque a Abraão: Que significam estas sete cordeiras que puseste à parte?
@@ -789,7 +789,7 @@ GÊNESIS
 46 E ela, com presteza, abaixou o seu cântaro do ombro, e disse: Bebe, e também darei de beber aos teus camelos; assim bebi, e ela deu também de beber aos camelos.
 47 Então lhe perguntei: De quem és filha? E ela disse: Filha de Betuel, filho de Naor, que Milca lhe deu. Então eu lhe pus o pendente no nariz e as pulseiras sobre as mãos;
 48 e, inclinando-me, adorei e bendisse ao Senhor, Deus do meu senhor Abraão, que me havia conduzido pelo caminho direito para tomar para seu filho a filha do irmão do meu senhor.
-49 Agora, pois, se vós haveis de usar de benevolência e de verdade para com o meu senhor, declarai-mo; e se não, também mo declarai, para que eu vá ou para a direita ou para a esquerda.
+49 Agora, pois, se vós haveis de usar de benevolência e de verdade para com o meu senhor, declarai-mo; e se não, também me declarai, para que eu vá ou para a direita ou para a esquerda.
 50 Então responderam Labão e Betuel: Do Senhor procede este negócio; nós não podemos falar-te mal ou bem.
 51 Eis que Rebeca está diante de ti, toma-a e vai-te; seja ela a mulher do filho de teu senhor, como tem dito o Senhor.
 52 Quando o servo de Abraão ouviu as palavras deles, prostrou-se em terra diante do Senhor:
@@ -1053,7 +1053,7 @@ Eis-me aqui; quem és tu, meu filho?
 6 Ora, vós mesmas sabeis que com todas as minhas forças tenho servido a vosso pai.
 7 Mas vosso pai me tem enganado, e dez vezes mudou o meu salário; Deus, porém, não lhe permitiu que me fizesse mal.
 8 Quando ele dizia assim: Os salpicados serão o teu salário; então todo o rebanho dava salpicados. E quando ele dizia assim: Os listrados serão o teu salário, então todo o rebanho dava listrados.
-9 De modo que Deus tem tirado o gado de vosso pai, e mo tem dado a mim.
+9 De modo que Deus tem tirado o gado de vosso pai, e me tem dado a mim.
 10 Pois sucedeu que, ao tempo em que o rebanho concebia, levantei os olhos e num sonho vi que os bodes que cobriam o rebanho eram listrados, salpicados e malhados.
 11 Disse-me o anjo de Deus no sonho: Jacó! Eu respondi: Eis-me aqui.
 12 Prosseguiu o anjo: Levanta os teus olhos e vê que todos os bodes que cobrem o rebanho são listrados, salpicados e malhados; porque tenho visto tudo o que Labão te vem fazendo.
@@ -1071,7 +1071,7 @@ Eis-me aqui; quem és tu, meu filho?
 24 Mas Deus apareceu de noite em sonho a Labão, o arameu, e disse-lhe: Guardate, que não fales a Jacó nem bem nem mal.
 25 Alcançou, pois, Labão a Jacó. Ora, Jacó tinha armado a sua tenda na montanha; armou também Labão com os seus irmãos a sua tenda na montanha de Gileade.
 26 Então disse Labão a Jacó: Que fizeste, que me iludiste e levaste minhas filhas como cativas da espada?
-27 Por que fizeste ocultamente, e me iludiste e não mo fizeste saber, para que eu te enviasse com alegria e com cânticos, ao som de tambores e de harpas;
+27 Por que fizeste ocultamente, e me iludiste e não me fizeste saber, para que eu te enviasse com alegria e com cânticos, ao som de tambores e de harpas;
 28 Por que não me permitiste beijar meus filhos e minhas filhas? Ora, assim procedeste nesciamente.
 29 Está no poder da minha mão fazer-vos o mal, mas o Deus de vosso pai falou-me ontem à noite, dizendo: Guarda-te, que não fales a Jacó nem bem nem mal.
 30 Mas ainda que quiseste ir embora, porquanto tinhas saudades da casa de teu pai, por que furtaste os meus deuses?
@@ -2784,7 +2784,7 @@ Eis-me aqui; quem és tu, meu filho?
 21 E perguntou Moisés a Arão: Que te fez este povo, que sobre ele trouxeste tamanho pecado?.
 22 Ao que respondeu Arão: Não se acenda a ira do meu senhor; tu conheces o povo, como ele é inclinado ao mal.
 23 Pois eles me disseram: Faze-nos um deus que vá adiante de nós; porque, quanto a esse Moisés, o homem que nos tirou da terra do Egito, não sabemos o que lhe aconteceu.
-24 Então eu lhes disse: Quem tem ouro, arranque-o. Assim mo deram; e eu o lancei no fogo, e saiu este bezerro.
+24 Então eu lhes disse: Quem tem ouro, arranque-o. Assim me deram; e eu o lancei no fogo, e saiu este bezerro.
 25 Quando, pois, Moisés viu que o povo estava desenfreado (porque Arão o havia desenfreado, para escárnio entre os seus inimigos),
 26 pôs-se em pé à entrada do arraial, e disse: Quem está ao lado do Senhor, venha a mim. Ao que se ajuntaram a ele todos os filhos de Levi.
 27 Então ele lhes disse: Assim diz o Senhor, o Deus de Israel: Cada um ponha a sua espada sobre a coxa; e passai e tornai pelo arraial de porta em porta, e mate cada um a seu irmão, e cada um a seu amigo, e cada um a seu vizinho.
@@ -4898,7 +4898,7 @@ NÚMEROS
 24 Eis que o povo se levanta como leoa, e se ergue como leão; não se deitará até que devore a presa, e beba o sangue dos que foram mortos:
 25 Então Balaque disse a Balaão: Nem o amaldiçoes, nem tampouco o abençoes:
 26 Respondeu, porém, Balaão a Balaque: Não te falei eu, dizendo: Tudo o que o Senhor falar, isso tenho de fazer?
-27 Tornou Balaque a Balaão: Vem agora, e te levarei a outro lugar; porventura parecerá bem aos olhos de Deus que dali mo amaldiçoes.
+27 Tornou Balaque a Balaão: Vem agora, e te levarei a outro lugar; porventura parecerá bem aos olhos de Deus que dali me amaldiçoes.
 28 Então Balaque levou Balaão ao cume de Peor, que dá para o deserto.
 29 E Balaão disse a Balaque: Edifica-me aqui sete altares, e prepara-me aqui sete novilhos e sete carneiros.
 30 Balaque, pois, fez como dissera Balaão; e ofereceu um novilho e um carneiro sobre cada altar.
@@ -6559,7 +6559,7 @@ JOSUÉ
 16 Então Josué se levantou de madrugada, e fez chegar Israel segundo as suas tribos, e foi tomada por sorte a tribo de Judá;
 17 fez chegar a tribo de Judá, e foi tomada a família dos zeraítas; fez chegar a família dos zeraítas, homem por homem, e foi tomado Zabdi;
 18 fez chegar a casa de Zabdi, homem por homem, e foi tomado Acã, filho de Carmi, filho de Zabdi, filho de Zerá, da tribo de Judá.
-19 Então disse Josué a Acã: Filho meu, dá, peço-te, glória ao Senhor Deus de Israel, e faze confissão perante ele. Declara-me agora o que fizeste; não mo ocultes.
+19 Então disse Josué a Acã: Filho meu, dá, peço-te, glória ao Senhor Deus de Israel, e faze confissão perante ele. Declara-me agora o que fizeste; não me ocultes.
 20 Respondeu Acã a Josué: Verdadeiramente pequei contra o Senhor Deus de Israel, e eis o que fiz:
 21 quando vi entre os despojos uma boa capa babilônica, e duzentos siclos de prata, e uma cunha de ouro do peso de cinqüenta siclos, cobicei-os e tomei-os; eis que estão escondidos na terra, no meio da minha tenda, e a prata debaixo da capa.
 22 Então Josué enviou mensageiros, que foram correndo à tenda; e eis que tudo estava escondido na sua tenda, estando a prata debaixo da capa.
@@ -7549,11 +7549,11 @@ JUÍZES
 9 E tirando-o nas mãos, foi andando e comendo dele; chegando aonde estavam seu pai e sua mãe, deu-lhes do mel, e eles comeram; porém não lhes disse que havia tirado o mel do corpo do leão.
 10 Desceu, pois, seu pai à casa da mulher; e Sansão fez ali um banquete, porque assim os mancebos costumavam fazer.
 11 E sucedeu que, quando os habitantes do lugar o viram, trouxeram trinta companheiros para estarem com ele.
-12 Disse-lhes, pois, Sansão: Permiti-me propor-vos um enigma; se nos sete dias das bodas o decifrardes e mo descobrirdes, eu vos darei trinta túnicas de linho e trinta mantos;
+12 Disse-lhes, pois, Sansão: Permiti-me propor-vos um enigma; se nos sete dias das bodas o decifrardes e me descobrirdes, eu vos darei trinta túnicas de linho e trinta mantos;
 13 mas se não puderdes decifrar, vós me dareis a mim as trinta túnicas de linho e os trinta mantos. Ao que lhe responderam eles: Propõe o teu enigma, para que o ouçamos.
 14 Então lhes disse: Do que come saiu comida, e do forte saiu doçura. E em três dias não puderam decifrar o enigma.
 15 Ao quarto dia, pois, disseram à mulher de Sansão: Persuade teu marido a que declare o enigma, para que não queimemos a fogo a ti e à casa de teu pai. Acaso nos convidastes para nos despojardes?
-16 E a mulher de Sansão chorou diante dele, e disse: Tão-somente me aborreces, e não me amas; pois propuseste aos filhos do meu povo um enigma, e não mo declaraste a mim. Respondeu-lhe ele: Eis que nem a meu pai nem a minha mãe o declarei, e to declararei a ti.
+16 E a mulher de Sansão chorou diante dele, e disse: Tão-somente me aborreces, e não me amas; pois propuseste aos filhos do meu povo um enigma, e não me declaraste a mim. Respondeu-lhe ele: Eis que nem a meu pai nem a minha mãe o declarei, e to declararei a ti.
 17 Assim ela chorava diante dele os sete dias em que celebravam as bodas. Sucedeu, pois, que ao sétimo dia lho declarou, porquanto o importunava; então ela declarou o enigma aos filhos do seu povo.
 18 Os homens da cidade, pois, ainda no sétimo dia, antes de se pôr o sol, disseram a Sansão: Que coisa há mais doce do que o mel? e que coisa há mais forte do que o leão? Respondeu-lhes ele: Se vós não tivésseis lavrado com a minha novilha, não teríeis descoberto o meu enigma.
 19 Então o Espírito do Senhor se apossou dele, de modo que desceu a Asquelom, matou trinta dos seus homens e, tomando as suas vestes, deu-as aos que declararam o enigma; e, ardendo em ira, subiu à casa de seu pai.
@@ -7951,7 +7951,7 @@ I SAMUEL
 14 Portanto, jurei à casa de Eli que nunca jamais será expiada a sua iniqüidade, nem com sacrifícios, nem com ofertas.
 15 Samuel ficou deitado até pela manhã, e então abriu as portas da casa do Senhor; Samuel, porém, temia relatar essa visão a Eli.
 16 Mas chamou Eli a Samuel, e disse: Samuel, meu filho! Ao que este respondeu: Eis-me aqui.
-17 Eli perguntou-lhe: Que te falou o Senhor? peço-te que não mo encubras; assim Deus te faça, e outro tanto, se me encobrires alguma coisa de tudo o que te falou.
+17 Eli perguntou-lhe: Que te falou o Senhor? peço-te que não me encubras; assim Deus te faça, e outro tanto, se me encobrires alguma coisa de tudo o que te falou.
 18 Samuel, pois, relatou-lhe tudo, e nada lhe encobriu. Então disse Eli: Ele é o Senhor, faça o que bem parecer aos seus olhos.
 19 Samuel crescia, e o Senhor era com ele e não deixou nenhuma de todas as suas palavras cair em terra.
 20 E todo o Israel, desde Dã até Berseba, conheceu que Samuel estava confirmado como profeta do Senhor.
@@ -8481,7 +8481,7 @@ I SAMUEL
 11 Mas os servos de Áquis lhe perguntaram: Este não é Davi, o rei da terra? não foi deste que cantavam nas danças, dizendo: Saul matou os seus milhares, por Davi os seus dez milhares?
 12 E Davi considerou estas palavras no seu coração, e teve muito medo de Áquis, rei de Gate.
 13 Pelo que se contrafez diante dos olhos deles, e fingiu-se doido nas mãos deles, garatujando nas portas, e deixando correr a saliva pela barba.
-14 Então disse Áquis aos seus servos: Bem vedes que este homem está louco; por que mo trouxestes a mim?
+14 Então disse Áquis aos seus servos: Bem vedes que este homem está louco; por que me trouxestes a mim?
 15 Faltam-me a mim doidos, para que trouxésseis a este para fazer doidices diante de mim? há de entrar este na minha casa?
 >>capitulo
 
@@ -8501,7 +8501,7 @@ I SAMUEL
 14 Ao que respondeu Aimeleque ao rei dizendo: Quem há, entre todos os teus servos, tão fiel como Davi, o genro do rei, chefe da tua guarda, e honrado na tua casa?
 15 Porventura é de hoje que comecei a consultar por ele a Deus? Longe de mim tal coisa! Não impute o rei coisa nenhuma a mim seu servo, nem a toda a casa de meu pai, pois o teu servo não soube nada de tudo isso, nem muito nem pouco.
 16 O rei, porém, disse: Hás de morrer, Aimeleque, tu e toda a casa de teu pai.
-17 E disse o rei aos da sua guarda que estavam com ele: Virai-vos, e matai os sacerdotes do Senhor, porque também a mão deles está com Davi, e porque sabiam que ele fugia e não mo fizeram saber. Mas os servos do rei não quiseram estender as suas mãos para arremeter contra os sacerdotes do Senhor.
+17 E disse o rei aos da sua guarda que estavam com ele: Virai-vos, e matai os sacerdotes do Senhor, porque também a mão deles está com Davi, e porque sabiam que ele fugia e não me fizeram saber. Mas os servos do rei não quiseram estender as suas mãos para arremeter contra os sacerdotes do Senhor.
 18 Então disse o rei a Doegue: Vira-te e arremete contra os sacerdotes. Virou-se, então, Doegue, o edomeu, e arremeteu contra os sacerdotes, e matou naquele dia oitenta e cinco homens que vestiam éfode de linho.
 19 Também a Nobe, cidade desses sacerdotes, passou a fio de espada; homens e mulheres, meninos e criancinhas de peito, e até os bois, jumentos e ovelhas passou a fio de espada.
 20 Todavia um dos filhos de Aimeleque, filho de Aitube, que se chamava Abiatar, escapou e fugiu para Davi.
@@ -9063,7 +9063,7 @@ II SAMUEL
 1 Ora, Absalão, filho de Davi, tinha uma irmã formosa, cujo nome era Tamar; e sucedeu depois de algum tempo que Amnom, filho de Davi enamorou-se dela.
 2 E angustiou-se Amnom, até adoecer, por amar, sua irmã; pois era virgem, e parecia impossível a Amnom fazer coisa alguma com ela.
 3 Tinha, porém, Amnom um amigo, cujo nome era Jonadabe, filho de Siméia, irmão de Davi; e era Jonadabe homem mui sagaz.
-4 Este lhe perguntou: Por que tu de dia para dia tanto emagreces, ó filho do rei? não mo dirás a mim? Então lhe respondeu Amnom: Amo a Tamar, irmã de Absalão, meu irmão.
+4 Este lhe perguntou: Por que tu de dia para dia tanto emagreces, ó filho do rei? não me dirás a mim? Então lhe respondeu Amnom: Amo a Tamar, irmã de Absalão, meu irmão.
 5 Tornou-lhe Jonadabe: Deita-te na tua cama, e finge-te doente; e quando teu pai te vier visitar, dize-lhe: Peço-te que minha irmã Tamar venha dar-me de comer, preparando a comida diante dos meus olhos, para que eu veja e coma da sua mão.
 6 Deitou-se, pois, Amnom, e fingiu-se doente. Vindo o rei visitá-lo, disse-lhe Amnom: Peço-te que minha irmã Tamar venha e prepare dois bolos diante dos meus olhos, para que eu coma da sua mão.
 7 Mandou, então, Davi a casa, a dizer a Tamar: Vai a casa de Amnom, teu irmão, e faze-lhe alguma comida.
@@ -10448,7 +10448,7 @@ l2 Então disse ao seu moço Geazi: Chama esta sunamita. Ele a chamou, e ela se 
 24 Então ela fez albardar a jumenta, e disse ao seu moço: Guia e anda, e não me detenhas no caminhar, senão quando eu to disser.
 25 Partiu pois, e foi ter com o homem de Deus, ao monte Carmelo; e sucedeu que, vendo-a de longe o homem de Deus, disse a Geazi, seu moço: Eis aí a sunamita;
 26 corre-lhe ao encontro e pergunta-lhe: Vais bem? Vai bem teu marido? Vai bem teu filho? Ela respondeu: Vai bem.
-27 Chegando ela ao monte, à presença do homem de Deus, apegou-se-lhe aos pés. Chegou-se Geazi para a retirar, porém, o homem de Deus lhe disse: Deixa-a, porque a sua alma está em amargura, e o Senhor mo encobriu, e não mo manifestou.
+27 Chegando ela ao monte, à presença do homem de Deus, apegou-se-lhe aos pés. Chegou-se Geazi para a retirar, porém, o homem de Deus lhe disse: Deixa-a, porque a sua alma está em amargura, e o Senhor me encobriu, e não me manifestou.
 28 Então disse ela: Pedi eu a meu senhor algum filho? Não disse eu: Não me enganes?
 29 Ao que ele disse a Geazi: Cinge os teus lombos, toma o meu bordão na mão, e vai. Se encontrares alguém, não o saúdes; e se alguém te saudar, não lhe respondas; e põe o meu bordão sobre o rosto do menino.
 30 A mãe do menino, porém, disse: Vive o senhor, e vive a tua alma, que não te hei de deixar. Então ele se levantou, e a seguiu.
@@ -20024,7 +20024,7 @@ ISAÍAS
 12 A minha habitação já foi arrancada e arrebatada de mim, qual tenda de pastor; enrolei como tecelão a minha vida; ele me corta do tear; do dia para a noite tu darás cabo de mim.
 13 Clamei por socorro até a madrugada; como um leão, assim ele quebrou todos os meus ossos; do dia para a noite tu darás cabo de mim.
 14 Como a andorinha, ou o grou, assim eu chilreava; e gemia como a pomba; os meus olhos se cansavam de olhar para cima; ó Senhor, ando oprimido! fica por meu fiador.
-15 Que direi? como mo prometeu, assim ele mesmo o cumpriu; assim passarei mansamente por todos os meus anos, por causa da amargura da minha alma.
+15 Que direi? como me prometeu, assim ele mesmo o cumpriu; assim passarei mansamente por todos os meus anos, por causa da amargura da minha alma.
 16 Ó Senhor por estas coisas vivem os homens, e inteiramente nelas está a vida do meu espírito; portanto restabelece-me, e faze-me viver.
 17 Eis que foi para minha paz que eu estive em grande amargura; tu, porém, amando a minha alma, a livraste da cova da corrupção; porque lançaste para trás das tuas costas todos os meus pecados.
 18 Pois não pode louvar-te o Seol, nem a morte cantar-te os louvores; os que descem para a cova não podem esperar na tua verdade.
@@ -20942,7 +20942,7 @@ JEREMIAS
 15 Que direito tem a minha amada na minha casa, visto que com muitos tem cometido grande abominação, e as carnes santas se desviaram de ti? Quando tu fazes mal, então andas saltando de prazer.
 16 Denominou-te o Senhor oliveira verde, formosa por seus deliciosos frutos; mas agora, à voz dum grande tumulto, acendeu fogo nela, e se quebraram os seus ramos.
 17 Porque o Senhor dos exércitos, que te plantou, pronunciou contra ti uma calamidade, por causa do grande mal que a casa de Israel e a casa de Judá fizeram, pois me provocaram à ira, queimando incenso a Baal.
-18 E o Senhor mo fez saber, e eu o soube; então me fizeste ver as suas ações.
+18 E o Senhor me fez saber, e eu o soube; então me fizeste ver as suas ações.
 19 Mas eu era como um manso cordeiro, que se leva à matança; não sabia que era contra mim que maquinavam, dizendo: Destruamos a árvore com o seu fruto, e cortemo-lo da terra dos viventes, para que não haja mais memória do seu nome.
 20 Mas, ó Senhor dos exércitos, justo Juiz, que provas o coração e a mente, permite que eu veja a tua vingança sobre eles; pois a ti descobri a minha causa.
 21 Portanto assim diz o Senhor acerca dos homens de Anatote, que procuram a tua vida, dizendo: Não profetizes no nome do Senhor, para que não morras às nossas mãos;
@@ -33031,7 +33031,7 @@ II PEDRO
 11 Porque assim vos será amplamente concedida a entrada no reino eterno do nosso Senhor e Salvador Jesus Cristo.
 12 Pelo que estarei sempre pronto para vos lembrar estas coisas, ainda que as saibais, e estejais confirmados na verdade que já está convosco.
 13 E tendo por justo, enquanto ainda estou neste tabernáculo, despertar-vos com admoestações,
-14 sabendo que brevemente hei de deixar este meu tabernáculo, assim como nosso Senhor Jesus Cristo já mo revelou.
+14 sabendo que brevemente hei de deixar este meu tabernáculo, assim como nosso Senhor Jesus Cristo já me revelou.
 15 Mas procurarei diligentemente que também em toda ocasião depois da minha morte tenhais lembrança destas coisas.
 16 Porque não seguimos fábulas engenhosas quando vos fizemos conhecer o poder e a vinda de nosso Senhor Jesus Cristo, pois nós fôramos testemunhas oculares da sua majestade.
 17 Porquanto ele recebeu de Deus Pai honra e glória, quando pela Glória Magnífica lhe foi dirigida a seguinte voz: Este é o meu Filho amado, em quem me comprazo;
